@@ -25,6 +25,8 @@ gem 'simple_form', '~> 5.0', '>= 5.0.2'
 gem 'bootstrap-sass', '~> 3.4', '>= 3.4.1'
 # Flexible authentication solution for Rails with Warden
 gem 'devise', '~> 4.7', '>= 4.7.1'
+# Easy upload management for ActiveRecord
+gem 'paperclip', '~> 4.2.0'
 # Use Redis adapter to run Action Cable in production
 # gem 'redis', '~> 4.0'
 # Use Active Model has_secure_password
