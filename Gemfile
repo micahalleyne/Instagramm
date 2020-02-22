@@ -26,7 +26,7 @@ gem 'bootstrap-sass', '~> 3.4', '>= 3.4.1'
 # Flexible authentication solution for Rails with Warden
 gem 'devise', '~> 4.7', '>= 4.7.1'
 # Easy upload management for ActiveRecord
-gem 'paperclip', '~> 4.2.0'
+gem 'paperclip', '~> 5.2.0'
 # Masonry will rock your world!
 gem 'masonry-rails', '~> 0.2.4'
 # Rails gem to allowing records to be votable
